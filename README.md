@@ -25,18 +25,23 @@ A React component that allows users to search and browse through a list of topic
 topic-search/
 
  public/
+ 
  src/
+ 
    TopicSearch.js
+   
    TopicSearch.css
+   
    App.js
+   
  README.md
+ 
  package.json
 
 yaml
 Copy
 Edit
 
----
 
 ## 📥 How to Run the Project
 
