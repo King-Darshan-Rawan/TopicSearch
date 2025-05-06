@@ -46,7 +46,7 @@ Edit
 ## 📥 How to Run the Project
 
 ```bash
-git clone https://github.com/yourusername/topic-search.git
+git clone https://github.com/King-Darshan-Rawan/TopicSearch
 cd topic-search
 npm install
 npm start
@@ -54,9 +54,10 @@ The app will run at http://localhost:3000
 
 📽️ Explanation Video
 🎥 Click here to watch the 2-minute video explanation
-
+1 English Explaination: https://drive.google.com/file/d/1tSV7lIy2DZxWuC48X-sBJDLgaYuF5cMs/view?usp=sharing
+2. Hindi Explaination: https://drive.google.com/file/d/1FZlet6GiuuAiet6PtbCKlM2Apk3y6mKn/view?usp=sharing
 🔗 GitHub Repository
-🌐 GitHub Repo - TopicSearch
+🌐 GitHub Repo - https://github.com/King-Darshan-Rawan/TopicSearch
 
 👨‍💻 Author
 Made with ❤️ by Darshan Malviya
