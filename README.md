@@ -27,12 +27,12 @@ topic-search/
  public/
  
  src/
- 
-   TopicSearch.js
-   
-   TopicSearch.css
-   
-   App.js
+ |
+ |--> TopicSearch.js
+ | 
+ |--> TopicSearch.css
+ |
+ |--> App.js
    
  README.md
  
