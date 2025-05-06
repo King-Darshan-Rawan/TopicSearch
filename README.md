@@ -59,4 +59,4 @@ The app will run at http://localhost:3000
 🌐 GitHub Repo - TopicSearch
 
 👨‍💻 Author
-Made with ❤️ by [Your Name]
+Made with ❤️ by Darshan Malviya
