@@ -23,14 +23,14 @@ A React component that allows users to search and browse through a list of topic
 ## 📂 Folder Structure
 
 topic-search/
-│
-├── public/
-├── src/
-│ ├── TopicSearch.js
-│ ├── TopicSearch.css
-│ └── App.js
-├── README.md
-└── package.json
+
+ public/
+ src/
+   TopicSearch.js
+   TopicSearch.css
+   App.js
+ README.md
+ package.json
 
 yaml
 Copy
